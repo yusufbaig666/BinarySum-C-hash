@@ -1,0 +1,8 @@
+D:\Visual Programming\BinaryCount\bin\Debug\BinaryCount.exe.config
+D:\Visual Programming\BinaryCount\bin\Debug\BinaryCount.exe
+D:\Visual Programming\BinaryCount\bin\Debug\BinaryCount.pdb
+D:\Visual Programming\BinaryCount\obj\Debug\BinaryCount.csproj.AssemblyReference.cache
+D:\Visual Programming\BinaryCount\obj\Debug\BinaryCount.csproj.SuggestedBindingRedirects.cache
+D:\Visual Programming\BinaryCount\obj\Debug\BinaryCount.csproj.CoreCompileInputs.cache
+D:\Visual Programming\BinaryCount\obj\Debug\BinaryCount.exe
+D:\Visual Programming\BinaryCount\obj\Debug\BinaryCount.pdb
